@@ -1,0 +1,530 @@
+[-!--POP3--PROCESSING--!-]
+START TIME: 2022-01-30 10:09:22.357013
+STOP TIME: 2022-01-30 10:09:23.303008
+
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b20504f50207365727665722072656164792048206d696d61703420304d486f55722d315644785244335569352d3030336571320d0a
+Response Indicator: +OK
+Response Description: POP server ready H mimap4 0MHoUr-1VDxRD3Ui5-003eq2
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26272
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 434150410d0a
+Request Command: CAPA
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26272
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 515549540d0a
+Request Command: QUIT
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26272
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b204361706162696c697479206c69737420666f6c6c6f77730d0a
+Response Indicator: +OK
+Response Description: Capability list follows
+Response Data: 544f500d0a
+Destination IP-address: 192.168.0.4
+Destination Port: 26272
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b20504f5020736572766572207369676e696e67206f66660d0a
+Response Indicator: +OK
+Response Description: POP server signing off
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26272
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b20504f50207365727665722072656164792048206d696d61703820304d485846512d315644675346313330382d3030334e59710d0a
+Response Indicator: +OK
+Response Description: POP server ready H mimap8 0MHXFQ-1VDgSF1308-003NYq
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26284
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 415554480d0a
+Request Command: AUTH
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26284
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2d455252203120617267756d656e742072657175697265640d0a
+Response Indicator: -ERR
+Response Description: 1 argument required
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26284
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 434150410d0a
+Request Command: CAPA
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26284
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b204361706162696c697479206c69737420666f6c6c6f77730d0a
+Response Indicator: +OK
+Response Description: Capability list follows
+Response Data: 544f500d0a
+Destination IP-address: 192.168.0.4
+Destination Port: 26284
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 4155544820504c41494e0d0a
+Request Command: AUTH
+Request Parameter: PLAIN
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26284
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 414752705a326c3059577870626e5a6c633352705a32463062334a41626d56306432397961334e7062584d75593239744147356863476c6c63673d3d0d0a
+Request Command: AGRpZ2l0YWxpbnZlc3RpZ2F0b3JAbmV0d29ya3NpbXMuY29tAG5hcGllcg==
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26284
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2d4552522061757468656e7469636174696f6e206661696c65640d0a
+Response Indicator: -ERR
+Response Description: authentication failed
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26284
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b20504f50207365727665722072656164792048206d696d61703920304d4b306f722d3156426c696e3369785a2d30303152564e0d0a
+Response Indicator: +OK
+Response Description: POP server ready H mimap9 0MK0or-1VBlin3ixZ-001RVN
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26304
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 434150410d0a
+Request Command: CAPA
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26304
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 515549540d0a
+Request Command: QUIT
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26304
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b204361706162696c697479206c69737420666f6c6c6f77730d0a
+Response Indicator: +OK
+Response Description: Capability list follows
+Response Data: 544f500d0a
+Destination IP-address: 192.168.0.4
+Destination Port: 26304
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b20504f5020736572766572207369676e696e67206f66660d0a
+Response Indicator: +OK
+Response Description: POP server signing off
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26304
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b20504f50207365727665722072656164792048206d696d6170313320304d5735725a2d31566179655a326a46702d303058565a640d0a
+Response Indicator: +OK
+Response Description: POP server ready H mimap13 0MW5rZ-1VayeZ2jFp-00XVZd
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26308
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 415554480d0a
+Request Command: AUTH
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26308
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2d455252203120617267756d656e742072657175697265640d0a
+Response Indicator: -ERR
+Response Description: 1 argument required
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26308
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 434150410d0a
+Request Command: CAPA
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26308
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b204361706162696c697479206c69737420666f6c6c6f77730d0a
+Response Indicator: +OK
+Response Description: Capability list follows
+Response Data: 544f500d0a
+Destination IP-address: 192.168.0.4
+Destination Port: 26308
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 4155544820504c41494e0d0a
+Request Command: AUTH
+Request Parameter: PLAIN
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26308
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 414752705a326c3059577870626e5a6c633352705a32463062334a41626d56306432397961334e7062584d75593239744147356863476c6c636a45794d773d3d0d0a
+Request Command: AGRpZ2l0YWxpbnZlc3RpZ2F0b3JAbmV0d29ya3NpbXMuY29tAG5hcGllcjEyMw==
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26308
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b206d61696c626f7820226469676974616c696e76657374696761746f72406e6574776f726b73696d732e636f6d22206861732033206d6573736167657320283139313931206f6374657473292048206d696d617031330d0a
+Response Indicator: +OK
+Response Description: mailbox "digitalinvestigator@networksims.com" has 3 messages (19191 octets) H mimap13
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26308
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 515549540d0a
+Request Command: QUIT
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26308
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b20504f5020736572766572207369676e696e67206f66660d0a
+Response Indicator: +OK
+Response Description: POP server signing off
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26308
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b20504f50207365727665722072656164792048206d696d6170313520304c664435782d3156735655343332374d2d30307048536e0d0a
+Response Indicator: +OK
+Response Description: POP server ready H mimap15 0LfD5x-1VsVU4327M-00pHSn
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26383
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 415554480d0a
+Request Command: AUTH
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26383
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2d455252203120617267756d656e742072657175697265640d0a
+Response Indicator: -ERR
+Response Description: 1 argument required
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26383
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 434150410d0a
+Request Command: CAPA
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26383
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b204361706162696c697479206c69737420666f6c6c6f77730d0a
+Response Indicator: +OK
+Response Description: Capability list follows
+Response Data: 544f500d0a
+Destination IP-address: 192.168.0.4
+Destination Port: 26383
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 4155544820504c41494e0d0a
+Request Command: AUTH
+Request Parameter: PLAIN
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26383
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 414752705a326c3059577870626e5a6c633352705a32463062334a41626d56306432397961334e7062584d75593239744147356863476c6c636a45794d773d3d0d0a
+Request Command: AGRpZ2l0YWxpbnZlc3RpZ2F0b3JAbmV0d29ya3NpbXMuY29tAG5hcGllcjEyMw==
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26383
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b206d61696c626f7820226469676974616c696e76657374696761746f72406e6574776f726b73696d732e636f6d22206861732033206d6573736167657320283139313931206f6374657473292048206d696d617031350d0a
+Response Indicator: +OK
+Response Description: mailbox "digitalinvestigator@networksims.com" has 3 messages (19191 octets) H mimap15
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26383
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 535441540d0a
+Request Command: STAT
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26383
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b20332031393139310d0a
+Response Indicator: +OK
+Response Description: 3 19191
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26383
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 4c4953540d0a
+Request Command: LIST
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26383
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b0d0a
+Response Indicator: +OK
+Response Description: None
+Response Data: 3120353536350d0a
+Destination IP-address: 192.168.0.4
+Destination Port: 26383
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 5549444c0d0a
+Request Command: UIDL
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26383
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b0d0a
+Response Indicator: +OK
+Response Description: None
+Response Data: 3120304d384f6f672d315679573649324237342d3030764e47410d0a
+Destination IP-address: 192.168.0.4
+Destination Port: 26383
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 5245545220310d0a
+Request Command: RETR
+Request Parameter: 1
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26383
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b0d0a
+Response Indicator: +OK
+Response Description: None
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26383
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 5245545220320d0a
+Request Command: RETR
+Request Parameter: 2
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26383
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b0d0a
+Response Indicator: +OK
+Response Description: None
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26383
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 5245545220330d0a
+Request Command: RETR
+Request Parameter: 3
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26383
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b0d0a
+Response Indicator: +OK
+Response Description: None
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26383
+Source IP-address: 212.227.15.166
+Source Port: 110
+
+-----------[---NEW--PACKET---]-----------
+
+Request: 515549540d0a
+Request Command: QUIT
+Request Parameter: None
+Destination IP-address: 212.227.15.166
+Destination Port: 110
+Source IP-address: 192.168.0.4
+Source Port: 26383
+
+-----------[---NEW--PACKET---]-----------
+
+Response: 2b4f4b20504f5020736572766572207369676e696e67206f66660d0a
+Response Indicator: +OK
+Response Description: POP server signing off
+Response Data: None
+Destination IP-address: 192.168.0.4
+Destination Port: 26383
+Source IP-address: 212.227.15.166
+Source Port: 110
